@@ -13,7 +13,6 @@ function App() {
   const currencyInfo = useCurrencyInfo(from);
 
   const options = Object.keys(currencyInfo);
-
   const BackgroundImage =
     "https://images.pexels.com/photos/259132/pexels-photo-259132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2";
 
